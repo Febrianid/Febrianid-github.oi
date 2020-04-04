@@ -134,7 +134,7 @@
   			width: 25px;
   			height: 25px;
   			background: rgba(255,255,255,0.2);
-  			animation: animate 20s linear infinite; 
+  			animation: animate 20s linear infinite;
   			bottom: -150px;
   			transition: all 1s ease;
   		}
@@ -162,7 +162,7 @@
   			width: 150px;
   			height: 150px;
   			animation-delay: 0s;
-  			animation-duration: 15s; 
+  			animation-duration: 15s;
   		}
   		.kotak li:nth-child(5){
   			left: 15%;
@@ -272,35 +272,35 @@
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio2" name="example1">
 		      <label class="custom-control-label" for="customRadio2">Dawn</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio3" name="example1">
 		      <label class="custom-control-label" for="customRadio3">Morning</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio4" name="example1">
 		      <label class="custom-control-label" for="customRadio4">Noon</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio5" name="example1">
 		      <label class="custom-control-label" for="customRadio5">Afternoon</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio6" name="example1">
 		      <label class="custom-control-label" for="customRadio6">Sunset</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio7" name="example1">
 		      <label class="custom-control-label" for="customRadio7">Evening</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio8" name="example1">
 		      <label class="custom-control-label" for="customRadio8">Midnight</label>
-		    </div> 
+		    </div>
 		    <div class="custom-control custom-radio">
 		      <input type="radio" class="custom-control-input" id="customRadio9" name="example1">
 		      <label class="custom-control-label" for="customRadio9">RGB Gaming :v</label>
-		    </div> 
+		    </div>
 		</div>
 		<div class="bg ubuntu"></div>
 		<div class="bg dawn"></div>
@@ -334,7 +334,7 @@
 				00:00:00
 			</div>
 			<div class="ucapan" id="quote">
-				
+
 			</div>
 		</div>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -649,7 +649,7 @@
 					txt2=txt;
 				}
 				else if(H<12){
-					txt='Be Happy Today:)';
+					txt='Be Happy Today Shellvy:)';
 					if(txt != txt2 && !starting)
 						document.getElementById("quote").innerHTML = txt;
 					txt2=txt;
@@ -661,7 +661,7 @@
 					txt2=txt;
 				}
 				else if(H<19){
-					txt='Good Afternoon, Take a Rest:)';
+					txt='Good Afternoon, Take a Rest Shellvy:)';
 					if(txt != txt2 && !starting)
 						document.getElementById("quote").innerHTML = txt;
 					txt2=txt;
@@ -741,23 +741,23 @@
 			const quotes = [
 			  {
 			    "quote": "Bila kau tak tahan lelahnya belajar, maka kau harus tahan menanggung perihnya kebodohan",
-			    "source": "Imam Syafi'i"
+			    "source": "Febrian_ID"
 			  },
 			  {
 			    "quote": "Just because I carry it all so well doesn't mean it's not heavy",
-			    "source": "Andika Sujanadi"
+			    "source": "Febrian_ID"
 			  },
 			  {
 			    "quote": "Semesta memiliki alurnya masing-masing",
-			    "source": "Andika Sujanadi"
+			    "source": "Febrian_ID"
 			  },
 			  {
 			    "quote": "You don't lose, You learn",
-			    "source": "Andika Sujanadi"
+			    "source": "Febrian_ID"
 			  },
 			  {
 			    "quote": "I own my own life and my own decission",
-			    "source": "Andika Sujanadi"
+			    "source": "Febrian_ID"
 			  },
 			  {
 			    "quote": "Every failure, rejection, betrayal should be the reason for you to come back stronger in life by working on goals and achiving them",
@@ -796,9 +796,9 @@
 			}
 
 			var i = 0;
-			
+
 			var speed = 50;
-			
+
 			function typeWriter() {
 				if (i < txt.length) {
 					var o = (i/txt.length*2);
