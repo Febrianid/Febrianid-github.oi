@@ -1,300 +1,359 @@
-<! DOCTYPE HTML >
-< html >
-	< head >
-	< meta  charset = " utf-8 " >
-	< meta  http-equiv = " Kompatibel dengan X-UA " content = " IE = edge " >
-	< title > ALI FEBRIANTO </ title >
-	< meta  name = " viewport " content = " width = lebar perangkat, skala awal = 1 " >
-	< meta  name = " description " content = " Profil Ali Febrianto " />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Ali Febrianto</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/font-awesome.css" rel="stylesheet">		<!-- font-awesome icons -->
+<link rel="stylesheet" href="css/swipebox.css">    <!-- swipebox -->
+<!-- //Custom Theme files -->
+<!-- js -->
+<script src="js/jquery-2.2.3.min.js"></script>
+<!-- //js -->
+<!-- web-fonts -->
+<link href="//fonts.googleapis.com/css?family=Kurale" rel="stylesheet">
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<!-- //web-fonts -->
+</head>
+<body>
+	<!-- main -->
+	<div class="buttons-wrapper">
+		<input id="slide1" class="w3slider-input" type="radio" name="slider" checked>
+		<input id="slide2" class="w3slider-input" type="radio" name="slider">
+		<input id="slide3" class="w3slider-input" type="radio" name="slider">
+		<input id="slide4" class="w3slider-input" type="radio" name="slider">
+		<ul class="slider">
+			<li class="agileits">
+				<!-- banner -->
+				<div class="banner">
+					<div class="banner-w3lsinfo">
+						<h2>Profile</h2>
+						<div class="container">
+							<div class="col-md-4 header-w3left">
+								<img src="images/1.jpeg" alt=""/>
+								<div class="header-imgtext-w3ls">
+									<h1>Ali Febrianto</h1>
+									<div class="social-wthree-icons">
+										<ul>
+											<li><a href="https://www.facebook.com/profile.php?id=100011392887413" class="fa fa-facebook icon icon-border facebook"> </a></li>
+											<li><a href="https://mobile.twitter.com/alifebrianto14" class="fa fa-twitter icon icon-border twitter"> </a></li>
+											<li><a href="#" class="fa fa-google-plus icon icon-border googleplus"> </a></li>
+											<li><a href="#" class="fa fa-dribbble icon icon-border dribbble"> </a></li>
+										</ul>
+										<div class="clearfix"> </div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-8 header-w3right">
+								<h3 class="agileits-title">Tentang Saya</h3>
+								<div class="profile-agileinfo">
+									<p>Nama saya Ali Febrianto dan saya adalah seorang Blogger. Saat ini saya bersekolah di SMK Tamtama Karanganyar Jurusan Teknik Komputer Dan Jaringan </p>
+									<div class="col-md-4 col-xs-4 profile-grids">
+										<i class="fa fa-user"></i>
+										<h5>Personal Info</h5>
+										<ul class="address">
+											<li>
+												<b>TTL</b> : Kebumen 14 Februari 2003
+											</li>
+											<li>
+												<b>PEKERJAAN</b> : Pelajar dan Blogger
+											</li>
+											<li>
+												<b>HOBI</b> : Membaca dan Menulis Blog
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-4 col-xs-4 profile-grids">
+										<i class="fa fa-envelope"></i>
+										<h5>Hubungi Saya</h5>
+										<ul class="address">
+											<li>
+												<b>WhatsApp</b> : 081215199038
+											</li>
+											<li>
+												<b>Blog</b> :  https://febrianid.tech.blog
+											</li>
+											<li>
+												<b>Alamat</b> : Karanganyar, Kebumen , Jawa Tengah
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-4 col-xs-4 profile-grids">
+										<i class="fa fa-share-alt"></i>
+										<h5>Comments</h5>
+										<ul class="address">
+											<li>
+												<b>E-MAIL</b> : <a href="mailto:Alifebrianto14@gmail.com"> Alifebrianto14@gmail.com</a>
+											</li>
+											<li>
+												<b>WEBSITE</b> : <a href="https://febrianid.tech.blog">FebrianID Tech</a>
+											</li>
+											<li>
+												<b>TWITTER</b> : <a href="https://mobile.twitter.com/alifebrianto14">@alifebrianto14</a>
+											</li>
+										</ul>
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+					</div>
+				</div>
+				<!-- //banner -->
+			</li>
+			<li class="agileits">
+				<!-- skills -->
+				<div class="skills">
+					<div class="container">
+						<div class="col-md-8 skills-w3lsleft">
+							<h3 class="agileits-title">My Skills</h3>
+							<div class="skill-agileinfo">
+								<div class="skillbar" data-percent="98">
+									<span class="skillbar-title" style="background: #d35400;">HTML5</span>
+									<p class="skillbar-bar" style="background: #e67e22;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<!-- End Skill Bar -->
+								<div class="skillbar" data-percent="99">
+									<span class="skillbar-title" style="background: #2980b9;">CSS3</span>
+									<p class="skillbar-bar" style="background: #3498db;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<!-- End Skill Bar -->
+								<div class="skillbar" data-percent="95">
+									<span class="skillbar-title" style="background: #2c3e50;">jQuery</span>
+									<p class="skillbar-bar" style="background: #2c3e50;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<!-- End Skill Bar -->
+								<div class="skillbar" data-percent="70">
+									<span class="skillbar-title" style="background: #46465e;">PHP</span>
+									<p class="skillbar-bar" style="background: #5a68a5;"></p>
+									<span class="skill-bar-percent"></span>
+								</div>
+								<!-- End Skill Bar -->
 
+				<!-- //skills -->
+			</li>
+			<li class="agileits">
+				<!-- work -->
+				<div class="work agileits-w3layouts">
+					<div class="container">
+						<div class="col-md-6 work-agile-left">
+							<h3 class="agileits-title">Pengalaman Kerja</h3>
+							<div class="panel-group w3l_panel_group_faq" id="accordion" role="tablist" aria-multiselectable="true">
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab" id="headingOne">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+												<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> -
+											</a>
+										</h4>
+									</div>
+									<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+										<div class="panel-body panel_text">
+											<h5>-</h5>
+										</div>
+									</div>
+								</div>
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab" id="headingTwo">
+										<h4 class="panel-title asd">
+											<a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+												<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> -
+											</a>
+										</h4>
+									</div>
+									<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+										<div class="panel-body panel_text">
+											<h5>-</h5>
+										</div>
+									</div>
+								</div>
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab" id="headingThree">
+										<h4 class="panel-title asd">
+											<a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+											<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> -
+											</a>
+										</h4>
+									</div>
+									<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+										<div class="panel-body panel_text">
+											<h5>-</h5
+										</div>
+									</div>
+								</div>
+							</div>
+							<h3 class="agileits-title agileits-title2">Riwayat Pendidikan</h3>
+							<div class="panel-group w3l_panel_group_faq" role="tablist" id="accordion1">
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab" id="headingfour">
+										<h4 class="panel-title asd">
+											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="true" aria-controls="collapsefour">
+												<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> SLTA
+											</a>
+										</h4>
+									</div>
+									<div id="collapsefour" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingfour">
+										<div class="panel-body panel_text">
+											<h5>SMK Tamtama Karanganyar</h5>
+										</div>
+									</div>
+								</div>
+								<div class="panel panel-default">
+									<div class="panel-heading" role="tab" id="headingfive">
+										<h4 class="panel-title asd">
+											<a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+												<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i>SMP
+											</a>
+										</h4>
+									</div>
+									<div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
+										<div class="panel-body panel_text">
+											<h5>SMP Negeri 3 Kebumen</h5>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 work-agile-right">
+							<h3 class="agileits-title">My Projects</h3>
+							<!-- Projects -->
+							<div class="Projects">
+								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img">
+									<a href="images/g1.jpg" class="swipebox" title="Lorem ipsum dolor">
+										<img class="img-responsive " src="images/g1.jpg" alt=""  />
+										<div class="wthree-pcatn">
+											<h4>My Project</h4>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img">
+									<a href="images/g2.jpg" class="swipebox" title="Lorem ipsum dolor">
+										<img src="images/g2.jpg" alt="" class="img-responsive" />
+										<div class="wthree-pcatn">
+											<h4>My Project</h4>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img">
+									<a href="images/g3.jpg" class="swipebox" title="Lorem ipsum dolor">
+										<img src="images/g3.jpg" alt="" class="img-responsive" />
+										<div class="wthree-pcatn">
+											<h4>My Project</h4>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img">
+									<a href="images/g4.jpg" class="swipebox" title="Lorem ipsum dolor">
+										<img src="images/g4.jpg" alt="" class="img-responsive" />
+										<div class="wthree-pcatn">
+											<h4>My Project</h4>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img">
+									<a href="images/g5.jpg" class="swipebox" title="Lorem ipsum dolor">
+										<img src="images/g5.jpg" alt="" class="img-responsive" />
+										<div class="wthree-pcatn">
+											<h4>My Project</h4>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img">
+									<a href="images/g6.jpg" class="swipebox" title="Lorem ipsum dolor">
+										<img src="images/g6.jpg" alt="" class="img-responsive" />
+										<div class="wthree-pcatn">
+											<h4>My Project</h4>
+										</div>
+									</a>
+								</div>
+							</div>
+							<!-- //Projects -->
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+				<!-- //work -->
+			</li>
+			<li class="agileits">
+				<!-- contact -->
+				<div class="contact agileits-w3layouts">
+					<div class="container">
+						<h3 class="agileits-title">Hubungi Saya</h3>
+						<div class="contact-w3lsrow">
+							<div class="col-md-6 contact-wthree-left">
+								<iframe src="https://www.google.com/maps/place/SMK+Tamtama+Karanganyar/@-7.6333729,109.5752388,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7ab52ed4de82a5:0x6da39e997888ddb0!8m2!3d-7.6333729!4d109.5774275" allowfullscreen></iframe>
+								<div class="faddressw3-agileinfo">
+									<div class="faddress-w3left">
+										<p>Karanganyar, Kebumen, Jawa Tengah<br> Indonesia </p>
+									</div>
+									<div class="faddress-w3right">
+										<p>Call us :  081215199038</p>
+										<p>E-mail : <a href="mailto:Alifebrianto14@gmail,com">Alifebrianto14@gmail.com</a></p>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+							<div class="col-md-6 contact-wthree-right">
+								<form action="#" method="post">
+									<input type="text" name="Name" placeholder="Name" required="">
+									<input type="email" class="email" name="Email" placeholder="Email" required="">
+									<input type="text" class="phone" name="phone" placeholder="Phone" required="">
+									<textarea name="Message" placeholder="Message" required=""></textarea>
+									<input type="submit" value="SUBMIT" >
+								</form>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<!-- footer -->
+						<div class="agile-footer">
+							<p>© 2020 by  <a href="https://febrianid.tech.blog" target="_blank">Ali Febrianto</a> </p>
+						</div>
+						<!-- //footer -->
+					</div>
+				</div>
+				<!-- //contact -->
+			</li>
+		</ul>
+			<label for="slide1"></label>
+			<label for="slide2"></label>
+			<label for="slide3"></label>
+			<label for="slide4"></label>
+	</div>
+	<!-- //main -->
+	<!-- swipe box js -->
+	<script src="js/jquery.swipebox.min.js"></script>
+	<script type="text/javascript">
+			jQuery(function($) {
+				$(".swipebox").swipebox();
+			});
+	</script>
+	<!-- //swipe box js -->
+	<!-- Skill Bar js -->
+	<script src="js/skill.bars.jquery.js"></script>
+	<script>
+	$(document).ready(function(){
 
+		$('.skillbar').skillBars({
+			from: 0,
+			speed: 4000,
+			interval: 100,
+			decimals: 0,
+		});
 
-  	<! - Integrasi Facebook dan Twitter ->
-	< meta  property = " og: title " content = "" />
-	< meta  property = " og: image " content = "" />
-	< meta  property = " og: url " content = "" />
-	< meta  property = " og: site_name " content = "" />
-	< meta  property = " og: description " content = "" />
-	< meta  name = " twitter: title " content = "" />
-	< meta  name = " twitter: image " content = "" />
-	< meta  name = " twitter: url " content = "" />
-	< meta  name = " twitter: card " content = "" />
-
-	< tautan  href = " https://fonts.googleapis.com/css?family=Space+Mono " rel = " stylesheet " >
-	< tautan  href = " https://fonts.googleapis.com/css?family=Kaushan+Script " rel = " stylesheet " >
-
-	<! - Animate.css ->
-	< link  rel = " stylesheet " href = " css / animate.css " >
-	<! - Icomoon Icon Fonts ->
-	< link  rel = " stylesheet " href = " css / icomoon.css " >
-	<! - Bootstrap ->
-	< link  rel = " stylesheet " href = " css / bootstrap.css " >
-
-	<! - Gaya tema ->
-	< link  rel = " stylesheet " href = " css / style.css " >
-
-	<! - Modernizr JS ->
-	< script  src = " js / modernizr-2.6.2.min.js " > </ script >
-	<! - UNTUK IE9 di bawah ini ->
-	<! - [jika IE 9]>
-	<script src = "js / response.min.js"> </script>
-	<! [endif] ->
-
-	</ head >
-	< tubuh >
-
-	< div  class = " fh5co-loader " > </ div >
-
-	< div  id = " halaman " >
-	< header  id = " fh5co-header " class = " fh5co-cover js-fullheight " role = " banner " style = " gambar latar: url (gambar / cover_bg_3.jpg); " data-stellar-background-ratio = " 0,5 " >
-		< div  class = " overlay " > </ div >
-		< div  class = " container " >
-			< div  class = " row " >
-				< div  class = " col-md-8 col-md-offset-2 text-center " >
-					< div  class = " display-t js-fullheight " >
-						< div  class = " display-tc js-fullheight kotak bernyawa " data-animate-effect = " fadeIn " >
-							< div  class = " profile-thumb " style = " background: url (images / user-3.jpg); " > </ div >
-							< h1 > < span > Ali Febrianto </ span > </ h1 >
-							< h3 > < span > Pengembang Web / Defacer / Mahasiswa </ span > </ h3 >
-							< p >
-								< ul  class = " fh5co-social-icons " >
-									< Li > < a  href = " https://mobile.twitter.com/alifebrianto14 " > < i  class =" icon-Twitter2 " > </ i > </ a > </ li >
-									< Li > < a  href = " https://www.facebook.com/profile.php?id=100011392887413 " > < i  class =" icon-facebook2 " > </ i > </ a > </ li >
-									< Li > < a  href = " https://www.linkedin.com/in/ali-febrianto-67760114a/ " > < i  class =" icon-linkedin2 " > </ i > </ a > </ li >
-									< Li > < a  href = " # " > < i  class =" icon-dribbble2 " > </ i > </ a > </ li >
-								</ ul >
-							</ p >
-						</ div >
-					</ div >
-				</ div >
-			</ div >
-		</ div >
-	</ header >
-
-	< div  id = " fh5co-about " class = " animate-box " >
-		< div  class = " container " >
-			< div  class = " row " >
-				< div  class = " col-md-8 col-md-offset-2 pusat teks fh5co-heading " >
-					< h2 > Tentang Aku </ h2 >
-				</ div >
-			</ div >
-			< div  class = " row " >
-				< div  class = " col-md-4 " >
-					< ul  class = " info " >
-						< li > < span  class = " first-block " > Nama Lengkap: </ span > < span  class = " blok kedua " > Ali Febrianto </ span > </ li >
-						< li > < span  class = " first-block " > Telepon: </ span > < span  class = " blok kedua " > 081215199038 </ span > </ li >
-						< li > < span  class = " blok pertama " > Email: </ span > < span  class = " blok kedua " > Alifebrianto1414@gmail.com </ span > </ li >
-						< li > < span  class = " blok pertama " > Situs web: </ span > < span  class = " blok kedua " > febriankun.tech.blog </ span > </ li >
-						< li > < span  class = " first-block " > Alamat: </ span > < span  class = " second-block " > Karanggayam, Kebumen, Jawa Tengah, Indonesia </ span > </ li >
-					</ ul >
-				</ div >
-				< div  class = " col-md-8 " >
-					< h2 > Halo Di Sini! </ h2 >
-					< p > Seperti yang telah disebut di atas tadi nama saya adalah Ali Febrianto saya hanya anak TKJ di SMK Tamtama Karanganyar yang suka dengan dunia IT dan menulis blog</ p >
-					< p >
-						< ul  class = " fh5co-social-icons " >
-							< Li > < a  href = " https://mobile.twitter.com/alifebrianto14 " > < i  class =" icon-Twitter2 " > </ i > </ a > </ li >
-							< Li > < a  href = " https://www.facebook.com/profile.php?id=100011392887413 " > < i  class =" icon-facebook3 " > </ i > </ a > </ li >
-							< Li > < a  href = " https://www.linkedin.com/in/ali-febrianto-67760114a/ " > < i  class =" icon-linkedin2 " > </ i > </ a > </ li >
-							< Li > < a  href = " # " > < i  class =" icon-dribbble2 " > </ i > </ a > </ li >
-						</ ul >
-					</ p >
-				</ div >
-			</ div >
-		</ div >
-	</ div >
-
-	< div  id = " fh5co-resume " class = " fh5co-bg-color " >
-		< div  class = " container " >
-			< div  class = " row animate-box " >
-				< div  class = " col-md-8 col-md-offset-2 pusat teks fh5co-heading " >
-					< h2 > Resume Saya </ h2 >
-				</ div >
-			</ div >
-			< div  class = " row " >
-				< div  class = " col-md-12 col-md-offset-0 " >
-					< ul  class = " timeline " >
-						< li  class = " timeline-heading text-center animate-box " >
-							< div > < h3 > Pendidikan </ h3 > </ div >
-						</ li >
-						< li  class = " timeline-inverted animate-box " >
-							< div  class = " timeline-badge " > < i  class = " icon-graduation-cap " > </ i > </ div >
-							< div  class = " timeline-panel " >
-								< div  class = " timeline-heading " >
-									< h3  class = " timeline-title " > Sekolah Dasar </ h3 >
-									< span  class = " company " > SD Negeri Selogiri </ span >
-								</ div >
-								< div  class = " timeline-body " >
-									< p >  Sikebo, Selogiri, Karanggayam, Kabupaten Kebumen, Jawa Tengah 54365 </ p >
-								</ div >
-							</ div >
-						</ li >
-						< li  class = " animate-box timeline-unverted " >
-							< div  class = " timeline-badge " > < i  class = " icon-graduation-cap " > </ i > </ div >
-							< div  class = " timeline-panel " >
-								< div  class = " timeline-heading " >
-									< h3  class = " timeline-title " > Sekolah Menengah Pertama </ h3 >
-									< span  class = " company " > SMP Negeri 3 Kebumen </ span >
-								</ div >
-								< div  class = " timeline-body " >
-									< p > Jl. S.Parman No.3, Kebumen, Bumirejo, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54316 </ p >
-								</ div >
-							</ div >
-						</ li >
-						< li  class = " timeline-inverted animate-box " >
-							< div  class = " timeline-badge " > < i  class = " icon-graduation-cap " > </ i > </ div >
-							< div  class = " timeline-panel " >
-								< div  class = " timeline-heading " >
-									< h3  class = " timeline-title " > Sekolah Menengah Kejuruan </ h3 >
-									< span  class = " company " > SMK TAMTAMA Karanganyar </ span >
-								</ div >
-								< div  class = " timeline-body " >
-									< p > Jl. Kemakmuran, Pengasinan, Plarangan, Kec. Karanganyar, Kabupaten Kebumen, Jawa Tengah 54364 </ p >
-								</ div >
-							</ div >
-						</ li >
-						< li  class = " animate-box timeline-unverted " >
-							< div  class = " timeline-badge " > < i  class = " icon-graduation-cap " > </ i > </ div >
-							< div  class = " timeline-panel " >
-								< div  class = " timeline-heading " >
-									< h3  class = " timeline-title " > Pondok Pesantren </ h3 >
-									< span  class = " company " > Pondok Pesantren Al-Islam Kebumen </ span >
-								</ div >
-								< div  class = " timeline-body " >
-									< p > JL Kawedusan, Pohkumbang, Kawedusan, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54317</ p >
-								</ div >
-							</ div >
-						</ li >
-			    	</ ul >
-				</ div >
-			</ div >
-		</ div >
-	</ div >
-
-	< div  id = " fh5co-skills " class = " animate-box " >
-		< div  class = " container " >
-			< div  class = " row " >
-				< div  class = " col-md-8 col-md-offset-2 pusat teks fh5co-heading " >
-					< h2 > Keterampilan </ h2 >
-				</ div >
-			</ div >
-			< div  class = " row row-pb-md " >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 95 " > < span > < strong > HTML5 </ strong > 95% </ span > </ div >
-				</ div >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 93 " > < span > < strong > CSS3 </ strong > 93% </ span > </ div >
-				</ div >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 90 " > < span > < strong > jQuery </ strong > 90% </ span > </ div >
-				</ div >
-
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 89 " > < span > < strong > PHP </ strong > 89% </ span > </ div >
-				</ div >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 85 " > < span > < strong > MySQL </ strong > 85% </ span > </ div >
-				</ div >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 90 " > < span > < strong > AngularJS </ strong > 90% </ span > </ div >
-				</ div >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 85 " > < span > < strong > Ruby </ strong > 85% </ span > </ div >
-				</ div >
-				< div  class = " col-md-3 col-sm-6 col-xs-12 pusat teks " >
-					< div  class = " chart " data-persen = " 90 " > < span > < strong > Java </ strong > 90% </ span > </ div >
-				</ div >
-			</ div >
-			< div  class = " row " >
-				< div  class = " col-md-6 " >
-					< div  class = " progress-wrap " >
-						< h3 > < span  class = " name-left " > HTML5 / CSS3 </ span > < span  class = " value-right " > 95% </ span > </ h3 >
-						< div  class = " progress " >
-						  < div  class = " progress-bar progress-bar-1 progress-bar-striped aktif " role = " progressbar "
-						  aria-valuenow = " 90 " aria-valuemin = " 0 " aria-valuemax = " 100 " style = " width: 90% " >
-						  </ div >
-						</ div >
-					</ div >
-
-
-	< div  id = " fh5co-berkonsultasi " >
-		< div  class = " video fh5co-video " style = " background-image: url (images / cover_bg_1.jpg); " >
-			< div  class = " overlay " > </ div >
-		</ div >
-		< div  class = " pilih animate-box " >
-			< h2 > Kontak </ h2 >
-			< form  action = " # " >
-				< div  class = " row form-group " >
-					< div  class = " col-md-6 " >
-						< input  type = " text " id = " fname " class = " form-control " placeholder = "Nama depan Anda " >
-					</ div >
-				</ div >
-				< div  class = " row form-group " >
-					< div  class = " col-md-6 " >
-						< input  type = " text " id = " lname " class = " form-control " placeholder = "Nama belakang Anda " >
-					</ div >
-				</ div >
-
-				< div  class = " row form-group " >
-					< div  class = " col-md-12 " >
-						< input  type = " text " id = " email " class = " form-control " placeholder = " Alamat email Anda " >
-					</ div >
-				</ div >
-
-				< div  class = " row form-group " >
-					< div  class = " col-md-12 " >
-						< input  type = " text " id = " subject " class = " form-control " placeholder = " Subjek Anda dari pesan ini " >
-					</ div >
-				</ div >
-
-				< div  class = " row form-group " >
-					< div  class = " col-md-12 " >
-						< textarea  name = " message " id = " message " cols = " 30 " rows = " 10 " class = " form-control " placeholder = " Katakan sesuatu tentang kami " > </ textarea >
-					</ div >
-				</ div >
-				< div  class = " form-group " >
-					< input  type = " submit " value = " Kirim Pesan " class = " btn btn-primary " >
-				</ div >
-
-			</ form >
-		</ div >
-	</ div >
-
-	< div  id = " map " class = " fh5co-map " > </ div >
-	</ div >
-
-	< div  id = " fh5co-footer " >
-		< div  class = " container " >
-			< div  class = " row " >
-				< div  class = " col-md-12 " >
-					< p > & salin; 2020 Semua Hak Dilindungi. < Br > Dirancang oleh < a  href = " https://www.facebook.com/profile.php?id=100011392887413 " Target =" _blank " > Ali Febrianto </ a > </ p >
-				</ div >
-			</ div >
-		</ div >
-	</ div >
-
-	< div  class = " gototop js-top " >
-		< A  href = " # " class =" js-gotop " > < i  class =" icon-panah-up22 " > </ i > </ a >
-	</ div >
-
-	<! - jQuery ->
-	< script  src = " js / jquery.min.js " > </ script >
-	<! - jQuery Easing ->
-	< script  src = " js / jquery.easing.1.3.js " > </ script >
-	<! - Bootstrap ->
-	< script  src = " js / bootstrap.min.js " > </ script >
-	<! - Waypoints ->
-	< script  src = " js / jquery.waypoints.min.js " > </ script >
-	<! - Stellar Parallax ->
-	< script  src = " js / jquery.stellar.min.js " > </ script >
-	<! - PieChart Mudah ->
-	< script  src = " js / jquery.easypiechart.min.js " > </ script >
-	<! - Google Map ->
-	< script  src = " https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false " > </ script >
-	< script  src = " js / google_map.js " > </ script >
-
-	<! - Main ->
-	< script  src = " js / main.js " > </ script >
-
-	</ body >
-</ html >
+	});
+	</script>
+	<!-- //End Skill Bar js -->
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.js"></script>
+</body>
+</html>
